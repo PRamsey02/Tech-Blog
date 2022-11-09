@@ -17,13 +17,13 @@
 ## Installation
   Clone the repo, navigate to the root folder, run the following commands from the CLI:
   
-Run Test
+Run Test;
 npm run test
 
-Seed DB
+Seed DB;
 npm run seed
 
-Start Server
+Start Server;
 npm start server
 
 ## License
