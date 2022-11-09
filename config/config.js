@@ -12,6 +12,7 @@ require('dotenv').config();
 //       database: 'tech_blog_db',
 //       dialect: 'mysql',
 //     });
+console.log(process.env.JAWSDB_URL + '___________');
 
 if (process.env.JAWSDB_URL) {
   sequelize = new Sequelize(process.env.JAWSDB_URL);
@@ -27,5 +28,6 @@ if (process.env.JAWSDB_URL) {
     }
   );
 }
+
 
 module.exports = sequelize;
