@@ -12,7 +12,8 @@
 - [Questions](#questions)
 
   ## Usage
-  
+  ![Screenshot 2022-11-09 000925](https://user-images.githubusercontent.com/113738082/200753028-e0eeb756-a614-4ec3-92f6-097ca6a0b667.png)
+
  
 ## Installation
   Clone the repo, navigate to the root folder, run the following commands from the CLI:
